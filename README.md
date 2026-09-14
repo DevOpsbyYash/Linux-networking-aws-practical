@@ -57,7 +57,7 @@ The commands, outputs, screenshots, and final results are documented for each ta
 
 # Architecture
 
-![Linux Networking and AWS Cloud Architecture](./images/architecture.png)
+![Linux Networking and AWS Cloud Architecture](./Images/architecture.png)
 
 The practical uses a Linux environment for network investigation and an AWS EC2 Linux server for cloud networking and troubleshooting.
 
@@ -73,9 +73,9 @@ The practical uses a Linux environment for network investigation and an AWS EC2 
 * Capture screenshots showing the command and output.
 
 ### Screenshot
-![Linux Server](./images/server.png)
+![Linux Server](./Images/server.png)
 
-![Linux Terminal](./images/connection.png)
+![Linux Terminal](./Images/connection.png)
 
 ### Result
 
@@ -105,7 +105,7 @@ cat /etc/resolv.conf
 
 ### Screenshot
 
-![Task 1 - Linux IP Investigation](./images/Q1.png)
+![Task 1 - Linux IP Investigation](./Images/Q1.png)
 
 ### Result
 
@@ -165,9 +165,9 @@ If the assigned address falls within these ranges, it is a private IPv4 address.
 
 ### Screenshot
 
-![Task 2 ](./images/Q2.png)
+![Task 2 ](./Images/Q2.png)
 
-![Task 2 ](./images/Q2(2).png)
+![Task 2 ](./Images/Q2(2).png)
 
 ### Result
 
@@ -214,7 +214,7 @@ echo "After disconnect -> 172.31.22.97"
 
 ### Screenshot
 
-![Task 3 ](./images/Q3.png)
+![Task 3 ](./Images/Q3.png)
 
 ### Result
 
@@ -244,9 +244,9 @@ The instance was accessed remotely using SSH.
 
 ### Screenshot
 
-![AWS EC2 Instance](./images/Q4.png)
+![AWS EC2 Instance](./Images/Q4.png)
 
-![Connect to EC2 using SSH](./images/Q4(2).png)
+![Connect to EC2 using SSH](./Images/Q4(2).png)
 
 ### Commands Used
 
@@ -261,7 +261,7 @@ The private IP shown in the AWS console should match the private IP identified f
 
 ### Screenshot 
 
-![Task 4 ](./images/Q4(3).png)
+![Task 4 ](./Images/Q4(3).png)
 
 
 ### Result
@@ -328,9 +328,9 @@ If a custom port is being used, that port must also be allowed in the Security G
 
 ### Screenshot
 
-![Task 5 ](./images/Q5.png)
+![Task 5 ](./Images/Q5.png)
 
-![Task 5 ](./images/Q5(2).png)
+![Task 5 ](./Images/Q5(2).png)
 
 ---
 
